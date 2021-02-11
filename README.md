@@ -2,8 +2,10 @@
 
 ## Some Scad models
 
-# Change in progress~~
+# Change in progress:-
 
-#### base_servo.scad
+#### 1. base_servo.scad
 
 ![Base servo preview](https://github.com/electrob/openscad-files/blob/master/base_servo.jpeg?raw=true)
+
+#### 2. ~~
