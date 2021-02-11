@@ -24,4 +24,5 @@ module servo_enclosure(lent, width, height,  thic) {
     }
 }
 
+//example
 servo_enclosure(9, 2.9, 4, 0.5);
