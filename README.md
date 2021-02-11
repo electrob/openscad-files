@@ -6,4 +6,4 @@
 
 #### base_servo.scad
 
-![alt text](https://github.com/electrob/openscad-files/blob/master/base_servo.jpg?raw=true)
+`![Base servo preview]`(https://github.com/electrob/openscad-files/blob/master/base_servo.jpeg?raw=true)
